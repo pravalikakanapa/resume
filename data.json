@@ -1,0 +1,51 @@
+{
+	"basicdetails":{
+		"image":"image.jpg",
+		"name":"ch.pravalika",
+		"email":"pravalikachirala1998@gmail.com",
+		"phone":"2222222222",
+		"address":"1-65,guntur(district)"
+	},
+	"education":[
+        {
+        	"course":"B.tech(c.s.e)",
+        	"collage":"vignan nirula collage",
+        	"percentage":"75%"
+        },
+        {
+        	"course":"intermediate(m.p.c)",
+        	"collage":"narayana",
+        	"percentage":"80%"
+        },
+        {
+        	"course":"s.s.c",
+        	"collage":"zph school",
+        	"percentage":"82%"
+        }		
+
+	],
+	"skills":[
+		{
+			"name":"operating systems",
+			"value":"Windows,Linux,MAC"
+        },
+        {
+        	"name":"programming Languages",
+        	"value":"c,c++,java,python"
+        }
+			
+],
+"carrier":{
+	"ca":"I am using my knowledge and skills towards thegrowth of your organization rules and  i obey table responsebility end of my working days"
+},
+"Achevements":[
+	"I got first prize in chess compition in my college",
+	"I got second prize in  throw boll in my college"
+	 
+	    
+	],
+"Description":{
+	"des":"i am using knowledge and skills  towards of your organization rules and i obey table responsebility end of my working days"
+}
+}
+ 
